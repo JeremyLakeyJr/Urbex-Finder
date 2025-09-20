@@ -1,0 +1,10 @@
+.sidebar {
+  padding: 20px;
+  background-color: #f8f9fa;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.map-container {
+  padding: 0;
+}
